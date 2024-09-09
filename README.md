@@ -2,7 +2,6 @@
 This repository hold all information for the dissertation (Exploring Environmental Dynamics: Analyzing Variations and Trends in Air Quality Surrounding Leeds Using Living Lab Air Quality Sensor Data). The repo will track the progress and will hold all steps taken towards the completion of the dissertation. (TBC)
 
 
-
 ## Introduction :
 Air pollution has become a critical environmental issue, with particulate matter (PM) being one of the most concerning pollutants due to its adverse health effects. PM2.5, referring to fine particulate matter with a diameter of less than 2.5 micrometers, poses significant health risks as it can penetrate deep into the lungs and bloodstream. The ability to predict PM2.5 levels accurately is crucial for mitigating its impact on public health and implementing effective environmental policies.
 
