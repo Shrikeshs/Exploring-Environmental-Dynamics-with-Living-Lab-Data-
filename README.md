@@ -10,3 +10,16 @@ This dissertation focuses on predicting PM2.5 concentrations using machine learn
 In addition to the prediction task, this dissertation explores the complexities of data processing, feature engineering, and model optimization. Through hyperparameter tuning and model evaluation, the study seeks to find the most effective approach for minimizing prediction error while maintaining model interpretability. Furthermore, the project emphasizes the practical application of the tools and concepts taught throughout the course, bridging the gap between theoretical knowledge and real-world data analysis.
 
 Ultimately, this research not only contributes to a better understanding of air quality dynamics but also provides a foundation for further exploration of advanced machine learning techniques in environmental data analysis.
+
+## Models used : 
+GRU and LSTM
+
+## MLflow Evaluation
+In this section, we evaluate the MLflow models and deployments. MLflow is an open-source platform for end-to-end machine learning lifecycles. In this research, we have connected MLflow to our native code and deployed models on it. 
+
+
+The model is trained in Jupyter Notebooks and then all model details including its parameters, metrics and status is uploaded into MLflow for evaluation. Using MLflow’s dynamic user interface, we can compare metrics of different runs and their parameters.
+
+
+
+
